@@ -5,7 +5,7 @@ from features.budgets.budgets import main as budgets_main
 from features.analytics.analytics import main as analytics_main
 from features.smart_assistant.smart_assistant import main as smart_assistant_main
 from features.data_management.data_management import main as data_management_main
-
+from features.web_dashboard.web_dashboard import main as web_dashboard_main
 def main():
     while True:
         choice = questionary.select(

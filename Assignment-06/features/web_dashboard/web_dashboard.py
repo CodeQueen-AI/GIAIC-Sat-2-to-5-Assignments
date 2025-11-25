@@ -921,7 +921,6 @@
 import streamlit as st
 import pandas as pd
 import json
-from datetime import datetime
 import plotly.express as px
 import os
 
@@ -1068,7 +1067,6 @@ def show_data_management():
         save_budgets(budgets)
         st.success("Budgets imported successfully!")
 
-    # Export Transactions
     if st.button("Export Transactions CSV"):
         transactions = load_data(TRANSACTIONS_FILE)
         pd.DataFrame(transactions).to_csv("transactions_export.csv", index=False)
