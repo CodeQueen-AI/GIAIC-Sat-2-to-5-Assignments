@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2025-11-25",
+        "type": "Expense",
+        "category": "Food",
+        "amount": 450000,
+        "description": "Lunch & Dinner"
+    },
+    {
+        "date": "2025-11-25",
+        "type": "Income",
+        "category": "Freelance",
+        "amount": 5000000,
+        "description": "1st month salary"
+    },
+    {
+        "date": "2025-11-25",
+        "type": "Expense",
+        "category": "Bills",
+        "amount": 290000,
+        "description": "Bill"
+    },
+    {
+        "date": "2025-11-25",
+        "type": "Expense",
+        "category": "Health",
+        "amount": 3209900,
+        "description": "Hospial"
+    },
+    {
+        "date": "2025-11-25",
+        "type": "Expense",
+        "category": "Shopping",
+        "amount": 6000000,
+        "description": "Eid Shopping"
+    },
+    {
+        "date": "2025-11-25",
+        "type": "Income",
+        "category": "Investment",
+        "amount": 9034000,
+        "description": "Trading"
+    },
+    {
+        "date": "2025-11-25",
+        "type": "Expense",
+        "category": "Other",
+        "amount": 6093000,
+        "description": "Other etc"
+    }
+]

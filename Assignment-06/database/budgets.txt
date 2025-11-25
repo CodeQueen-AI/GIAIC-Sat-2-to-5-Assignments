@@ -1,0 +1,4 @@
+Entertainment,500000
+Bills,30000
+Transport,209800
+Food,500000
