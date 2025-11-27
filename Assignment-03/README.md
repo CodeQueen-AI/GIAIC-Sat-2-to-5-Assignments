@@ -1,7 +1,3 @@
-Bilkul! 😄 Ye rahi aapke **Data Analysis Prompt Design** assignment ki **ready README file** jo maine pehle banai thi, English version me:
-
----
-
 # 🎯 Data Analysis Prompt Design Assignment
 
 ## 📝 Objective
@@ -15,7 +11,7 @@ Design prompts that guide AI to **analyze, interpret, and summarize datasets** (
 3. Give a **short explanation** of how each prompt helps achieve the goal.
 4. Optional: Provide a **real-world example** showing how the prompt can be used.
 
----
+
 
 ## 🔹 Example Prompts (Data Analysis)
 
@@ -38,16 +34,3 @@ Design prompts that guide AI to **analyze, interpret, and summarize datasets** (
 5. **Prompt:**
    “Visualize this dataset in a bar chart to show product-wise sales.”
    **Explanation:** AI will generate a chart for easier understanding of the data.
-
----
-
-💡 **In simple words:**
-You are creating **smart instructions/questions** for AI so it can read the data and give meaningful insights.
-
----
-
-Ye aap sidha **Markdown (.md) file** me save karke submit kar sakti ho.
-
-Agar chaho, mai iska **Gamma-ready version bhi bana doon** jisme ye content web page style me ho, copy-paste kar ke publish kar sako.
-
-Chahogi mai wo bana doon?
